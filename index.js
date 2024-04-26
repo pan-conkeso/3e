@@ -3,7 +3,7 @@ const tareas = [{
         id: 1,
         nombre: "La orgnización y los elementos que la componen",
         fecha: "-/-/-",
-        tarea: `<iframe href="https://samuelorellana123.github.io/" width="20" height="20" name="organización y elementos que la componen></iframe>`,
+        tarea: `<iframe href="https://samuelorellana123.github.io" width="20" height="20" name="organización y elementos que la componen></iframe>`,
     },
     {
 
@@ -85,6 +85,21 @@ const tareas = [{
          </iframe>
        </div>
        <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGDYvUc0kI&#x2F;YB6CZf30tS3X-4TuZ39AaA&#x2F;view?utm_content=DAGDYvUc0kI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Abrir en canva</a>`,
+    },
+
+    {
+       id: 7,
+       nombre: "JavaScript",
+       fecha: "30/04/24",
+       desc: "Utilización de informacion contable",
+       tarea: `<div width: 20%;
+ box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16);
+ border-radius: 8px; will-change: transform;">
+  <iframe width: 20%; height: 20%; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGDhm2_AOE&#x2F;w1257BjVxjZaqkWU7TUcWg&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGDhm2_AOE&#x2F;w1257BjVxjZaqkWU7TUcWg&#x2F;view?utm_content=DAGDhm2_AOE&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Abrir en canva</a>`,
     },
 
 
