@@ -1,7 +1,7 @@
 const tareas = [{
 
         id: 1,
-        nombre: "La orgnización y los elementos que la componen",
+        nombre: "La organización y los elementos que la componen",
         fecha: "-/-/-",
         tarea: `<iframe href="https://samuelorellana123.github.io" width="20" height="20" name="organización y elementos que la componen></iframe>`,
     },
